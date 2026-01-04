@@ -1,1 +1,1 @@
-# knowledge-base-rag-service
+# Knowledge Base RAG AI Service project.
